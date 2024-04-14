@@ -1,4 +1,4 @@
-# LMS Platform
+# LMS Platform (under development)
 
 Key Features:
 
@@ -26,7 +26,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-lms-platform.git
+git clone https://github.com/kartikey-codes/LMS-Platform.git
 ```
 
 ### Install packages
@@ -84,3 +84,8 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+
+
+Special thanks to the [YouTube tutorial by Antonio Erdeljac](https://www.youtube.com/watch?v=Big_aFLmekI) for providing an excellent guide and facilitating my learning process.
+
